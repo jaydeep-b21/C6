@@ -1,1 +1,1 @@
-# C6
+# gridsearch logistic regression
